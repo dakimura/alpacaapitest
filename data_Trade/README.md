@@ -1,0 +1,1 @@
+EpochNanoSec, Price, Size
